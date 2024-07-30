@@ -6,7 +6,7 @@
 
 - **Modern Design:** Utilizes cutting-edge UI/UX principles for an engaging and stylish interface.
 - **Responsive Layout:** Adapts seamlessly to various screen sizes and devices for a consistent experience.
-- **Interactive Elements:** Incorporates dynamic features to enhance user interaction and engagement.
+- **Interactive Elements:** Enhances user interaction and engagement by incorporating dynamic features.
 - **Sleek Animations:** Implements smooth animations and transitions to boost visual appeal.
 - **Parallax Effects:** Adds depth with sophisticated parallax scrolling effects.
 
@@ -18,7 +18,7 @@
 
 ## 🌐 Live Demo
 
-Explore the live demo of the AetherAI website [here](). 🚀
+Explore the live demo of the AetherAI website [here](https://aether-ai-sigma.vercel.app/). 🚀
 
 ## 🙌 Acknowledgments
 
